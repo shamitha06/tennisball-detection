@@ -1,5 +1,4 @@
 # tennisball-detection
-
 This project demonstrates real-time tennis ball and player detection from video input using a custom-trained YOLOv5 model. The application is built with Streamlit for an interactive user interface.
 
 **[Live Application](https://tennisballandperson.streamlit.app)**
@@ -68,5 +67,4 @@ Upload a sample tennis match video to detect player movements and tennis ball po
 - PyTorch
 - OpenCV
 - YOLOv5
-
 
